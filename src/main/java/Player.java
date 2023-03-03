@@ -31,7 +31,7 @@ public class Player {
      * @param playerName the name of the player to be created.
      */
     public Player(String playerName){
-        this.playerName = "Sam";
+        this.playerName = "Frodo";
         this.level = 1;
     }
 
